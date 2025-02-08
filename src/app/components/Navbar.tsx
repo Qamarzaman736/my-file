@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline"
+
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false)

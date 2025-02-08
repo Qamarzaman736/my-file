@@ -3,13 +3,13 @@ import Image from "next/image";
 export default function About() {
   const skills = [
     "Machine Learning",
+    "Custom GPT",
+    "Next.js",
     "Natural Language Processing",
     "Computer Vision",
     "Deep Learning",
     "Data Analysis",
     "Python",
-    "TensorFlow",
-    "PyTorch",
   ];
 
   return (
@@ -30,9 +30,7 @@ export default function About() {
           
           <div className="w-full md:w-2/3">
             <p className="text-lg mb-8">
-              I am a passionate AI developer with 5+ years of experience in building intelligent systems. My expertise
-              spans across various domains of AI, including machine learning, natural language processing, and computer
-              vision. I'm dedicated to creating innovative solutions that make a real-world impact.
+            Hi i am Qamar ul Zaman! I specialize in web development with a focus on cutting-edge technologies like Next.js and AI integrations, including ChatGPT. Explore my projects that combine creativity, functionality, and intelligent solutions to deliver exceptional digital experiences.
             </p>
             <h3 className="text-2xl font-semibold mb-4">Skills</h3>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">

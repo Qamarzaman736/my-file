@@ -1,4 +1,4 @@
-import { ArrowDownIcon } from "@heroicons/react/24/outline";
+
 
 export default function Hero() {
   return (
@@ -14,7 +14,6 @@ export default function Hero() {
         aria-label="Scroll to About section"
       >
         
-        <ArrowDownIcon className="h-6 w-6" />
        
       </a>
     </section>

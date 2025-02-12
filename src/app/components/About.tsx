@@ -20,7 +20,7 @@ export default function About() {
           {/* Image Section */}
           <div className="w-full md:w-1/3 flex justify-center">
             <Image
-              src="/m.jpg" 
+              src="/a.jpg" 
               alt="Your Image Description"
               width={400}
               height={400}
@@ -30,7 +30,7 @@ export default function About() {
           
           <div className="w-full md:w-2/3">
             <p className="text-lg mb-8">
-            Hi i am Qamar ul Zaman! I specialize in web development with a focus on cutting-edge technologies like Next.js and AI integrations, including ChatGPT. Explore my projects that combine creativity, functionality, and intelligent solutions to deliver exceptional digital experiences.
+            Hi i am  AHAD MEHAR! I specialize in web development with a focus on cutting-edge technologies like Next.js and AI integrations, including ChatGPT. Explore my projects that combine creativity, functionality, and intelligent solutions to deliver exceptional digital experiences.
             </p>
             <h3 className="text-2xl font-semibold mb-4">Skills</h3>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">

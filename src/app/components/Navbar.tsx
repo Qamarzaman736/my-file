@@ -15,7 +15,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <a href="#" className="text-red font-bold text-xl">
-              Qamar ul Zaman
+              AHAD MEHAR
             </a>
           </div>
           <div className="hidden md:block">

@@ -13,7 +13,7 @@ export default function Projects() {
       title: "Next.js", 
       description: "Next.js is a popular React-based framework for building server-rendered, statically generated, and performance-optimized web applications.",
       image: "/n.webp",
-      github: "https://new-file-lime.vercel.app/",
+      github: "",
       demo: "https://demo.com",
     },
     {

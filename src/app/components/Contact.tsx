@@ -97,7 +97,7 @@ export default function Contact() {
             GitHub
           </a>
           <a
-            href=" https://www.tiktok.com/@aiwork1?is_from_webapp=1&sender_device=pc "
+            href=" https://www.tiktok.com/@arainzadaa04?_t=ZS-8teo8ElHaqu&_r=1 "
             target="_blank"
             rel="noopener noreferrer"
             className="text-red-400 hover:text-blue-300"

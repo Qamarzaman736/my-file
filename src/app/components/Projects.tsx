@@ -14,7 +14,7 @@ export default function Projects() {
       description: "Next.js is a popular React-based framework for building server-rendered, statically generated, and performance-optimized web applications.",
       image: "/n.webp",
       github: "",
-      demo: "https://demo.com",
+      demo: "https://new-file-lime.vercel.app/",
     },
     {
       title: "Chat GPT DEVELPER",
